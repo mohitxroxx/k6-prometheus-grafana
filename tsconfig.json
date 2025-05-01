@@ -12,6 +12,6 @@
     "baseUrl": "./lib",
     "lib": ["es2017", "dom", "esnext"]
   },
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "src/k6.js"],
   "exclude": ["node_modules"]
 }
